@@ -15,10 +15,6 @@ I build projects in **C++ / Java**, and I like solving problems that involve **a
 ### 📌 Featured Projects
 - **Project 1** — one-line description  
   Repo: https://github.com/<you>/<repo>
-- **Project 2** — one-line description  
-  Repo: https://github.com/<you>/<repo>
-- **Project 3** — one-line description  
-  Repo: https://github.com/<you>/<repo>
 
 ### 📫 Contact
 - Email: renerli2009@gmail.com
