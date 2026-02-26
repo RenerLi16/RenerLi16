@@ -4,13 +4,13 @@ I'm a high school student who loves **competitive programming** and **cyber defe
 I build projects in **C++ / Java**, and I like solving problems that involve **algorithms, performance, and clean design**.
 
 ### 🔭 What I’m working on
-- Competitive programming practice (USACO / Codeforces-style problems)
+- Competitive programming practice
 - Small projects and notes around Cisco networking
 
 ### 🧰 Skills
-- **Languages:** C++, Python, Java (add/remove)
+- **Languages:** C++, Python, Java
 - **CS Topics:** data structures, graphs, DP, greedy, debugging
-- **Tools:** Git, Linux, Bash (add/remove)
+- **Tools:** Git, Sublime Text
 
 ### 📌 Featured Projects
 - **Project 1** — one-line description  
@@ -21,8 +21,8 @@ I build projects in **C++ / Java**, and I like solving problems that involve **a
   Repo: https://github.com/<you>/<repo>
 
 ### 📫 Contact
-- Email: <your email>
-- Discord: <your handle> (optional)
+- Email: renerli2009@gmail.com
+- Discord: spfaspfa
 - Website: <your site> (optional)
 
 ---
