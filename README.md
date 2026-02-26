@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Rener 👋
 
-<!--
-**RenerLi16/RenerLi16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student who loves **competitive programming** and **cyber defense**.  
+I build projects in **C++ / Java**, and I like solving problems that involve **algorithms, performance, and clean design**.
 
-Here are some ideas to get you started:
+### 🔭 What I’m working on
+- Competitive programming practice (USACO / Codeforces-style problems)
+- Small projects and notes around Cisco networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Skills
+- **Languages:** C++, Python, Java (add/remove)
+- **CS Topics:** data structures, graphs, DP, greedy, debugging
+- **Tools:** Git, Linux, Bash (add/remove)
+
+### 📌 Featured Projects
+- **Project 1** — one-line description  
+  Repo: https://github.com/<you>/<repo>
+- **Project 2** — one-line description  
+  Repo: https://github.com/<you>/<repo>
+- **Project 3** — one-line description  
+  Repo: https://github.com/<you>/<repo>
+
+### 📫 Contact
+- Email: <your email>
+- Discord: <your handle> (optional)
+- Website: <your site> (optional)
+
+---
+⭐ If you like my work, feel free to star a repo or connect!
