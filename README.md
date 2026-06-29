@@ -3,6 +3,9 @@
 I'm a high school student who loves **competitive programming** and **cyber defense**.  
 I build projects in **C++ / Java**, and I like solving problems that involve **algorithms, performance, and clean design**.
 
+Troy High School 2028, current sophomore.
+USACO Certified Platinum
+
 ### 🔭 What I’m working on
 - Competitive programming practice
 - Small projects and notes around Cisco networking
